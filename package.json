@@ -2,7 +2,7 @@
   "name": "handsontable-ruleJS",
   "version": "0.0.1",
   "dependencies": {
-    "handsontable": "0.14.1",
+    "handsontable": "^0.24.2",
     "ruleJS": "0.0.5",
     "jquery": "2.1.3"
   }
